@@ -3,7 +3,7 @@
 
 ## Example 
 
-
+```
 
 locals {
   test = "192.168.1.5"
@@ -38,3 +38,5 @@ module "cloud" {
 
 
 }
+
+```
