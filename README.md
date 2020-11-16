@@ -1,5 +1,6 @@
 # clouddns
 
+Ensure that GOOGLE_PROJECT=<project_name>
 
 ## Example 
 
