@@ -1,6 +1,6 @@
 # clouddns
 
-Ensure that GOOGLE_PROJECT=<project_name>
+Ensure that GOOGLE_PROJECT=<project_name> is set.
 
 ## Example 
 
